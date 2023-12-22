@@ -82,6 +82,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kaaniyice/kaaniyice/output/snake.svg" alt="Snake animation" />
-
 ###
