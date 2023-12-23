@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Kaan iyice. <br><br>I graduated from Electrical and Electronics Engineering.<br><br> And currently I'm trying to improve my knowledge in software engineering topics.</p>
+<p align="left">Hi I'm Kaan iyice. <br><br>I graduated from Electrical and Electronics Engineering.<br><br> And currently I'm trying to improve my knowledge in software engineering topics. <br><br></p>
 
 ###
 
@@ -47,7 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  
+  
 </div>
 
 ###
