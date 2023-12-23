@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Kaan iyice. <br><br>I graduated from electrical and electronics engineering.<br><br> And currently I'm trying to improve my knowledge in software engineering.</p>
+<p align="left">Hi I'm Kaan iyice. <br><br>I graduated from Electrical and Electronics Engineering.<br><br> And currently I'm trying to improve my knowledge in software engineering topics.</p>
 
 ###
 
