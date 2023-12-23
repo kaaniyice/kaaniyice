@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Kaan iyice. I have a Bachelor of Science degree in Electrical-Electronics Engineering and I am thrilled to embark on a promising career in the field of technology and innovation. With a strong academic background and a passion for problem-solving, I am equipped with the theoretical knowledge and practical skills necessary to contribute effectively to any challenging project.</p>
+<p align="left">Hi I'm Kaan iyice. <br><br>I graduated from electrical and electronics engineering.<br><br> And currently I'm trying to improve my knowledge in software engineering.</p>
 
 ###
 
